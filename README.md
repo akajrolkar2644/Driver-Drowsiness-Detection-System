@@ -1,2 +1,1 @@
-# Driver-Drowsiness-Detection-System
-Working on face recognition
+The Driver Drowsiness Detection System using OpenCV is designed to improve road safety by monitoring a driver’s alertness. The system captures live video of the driver’s face using a camera and employs computer vision techniques to detect facial features and eye movements. It analyzes the driver’s eye closures and blinking patterns to identify signs of drowsiness. For instance, if the system detects that the driver’s eyes are closed for too long, it will issue an alert, such as a sound or visual signal, to warn the driver and help prevent accidents caused by fatigue. This project aims to enhance safety by providing real-time warnings to drivers who may be at risk of falling asleep at the wheel.
